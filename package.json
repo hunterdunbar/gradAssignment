@@ -1,0 +1,16 @@
+{
+  "name": "grad-assignment",
+  "version": "1.0.0",
+  "description": "ASSIGNMENT - \"Installing and Using NPM Packages\"",
+  "main": "problem.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hunter Dunbar",
+  "license": "ISC"
+}
